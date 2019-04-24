@@ -1,0 +1,24 @@
+{
+  "name": "scraper-bikes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "json": "^9.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leifaesoph/Scraper-Bikes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leifaesoph/Scraper-Bikes/issues"
+  },
+  "homepage": "https://github.com/leifaesoph/Scraper-Bikes#readme"
+}
