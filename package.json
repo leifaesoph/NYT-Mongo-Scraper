@@ -4,7 +4,12 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "json": "^9.0.6"
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "json": "^9.0.6",
+    "mongoose": "^5.5.3"
   },
   "devDependencies": {},
   "scripts": {
